@@ -1,7 +1,7 @@
 # Basics of NN
 
 ## Single neuron
-<image src ="Basics/Neuron.svg">
+<image src ="https://github.com/Anant-mishra1729/Neural-network-from-Scratch/blob/main/Basics/Neuron.svg">
 
 ## Layer
-<image src ="Basics/Layer.svg">
+<image src ="https://github.com/Anant-mishra1729/Neural-network-from-Scratch/blob/main/Basics/Layer.svg">
